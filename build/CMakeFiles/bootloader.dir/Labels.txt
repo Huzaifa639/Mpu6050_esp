@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/IMU/IMU_test/build/CMakeFiles/bootloader
+D:/IMU/IMU_test/build/CMakeFiles/bootloader.rule
+D:/IMU/IMU_test/build/CMakeFiles/bootloader-complete.rule
+D:/IMU/IMU_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/IMU/IMU_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/IMU/IMU_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/IMU/IMU_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/IMU/IMU_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/IMU/IMU_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/IMU/IMU_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
